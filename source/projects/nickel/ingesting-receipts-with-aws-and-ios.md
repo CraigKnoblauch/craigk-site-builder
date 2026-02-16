@@ -1,8 +1,4 @@
----
-date: '2025-08-04T19:04:06-04:00'
-draft: false
-title: 'Ingesting receipts with iOS and AWS'
----
+# Ingesting receipts with iOS and AWS
 
 One of the most common forms of personal financial data is a paper receipt. In the past, I've tracked these by hand. That process is time intensive and annoying. I've always wanted a way to capture a paper receipt at the time I receive it and automatically ingest it into my personal ledger. Now, after some iteration, I've landed on an approach that involves 3 clicks on an iPhone and about $0.01 per use on AWS. Here's how it works.
 

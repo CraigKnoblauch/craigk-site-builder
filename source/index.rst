@@ -1,36 +1,38 @@
-.. craigk documentation master file, created by
-   sphinx-quickstart on Fri Feb 13 19:23:05 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+I’m a software engineer with six years of experience navigating the complex, high-stakes environments of aerospace, fintech, and defense. Currently, I lead software development for spacecraft at the U.S. Naval Research Laboratory in Washington, D.C.
 
-craigk documentation
-====================
+I am deeply passionate about the craft of engineering, specifically tackling unconventional problems that require balancing high-level architecture with low-level execution. However, I believe an effective engineer is motivated by more than just tech. In my life and career I strive to enhance my consideration of other's perspectives. 
 
-.. toctree::
-   :maxdepth: 1
-   .. :hidden:
-
- I'm a seasoned software engineer with 6 years of experience spanning aerospace, fintech, and defense. Currently I lead software development for spacecraft with the U.S. Naval Research Laboratory in Washington D.C.
- I love software engineering. I've gotten very good at tackling unconventional technical challenges and thinking about them from several levels of scope at the same time. 
- I'll be posting here about my projects, processes, and passions.
+This site is a collection of my technical projects and development processes, but it's also a space where I document experiences and share the pieces of artistic expression that have spoken to me.
 
 .. grid:: 1 1 2 2
-    :gutter: 2 3 4 4
+    :gutter: 3
 
-    .. grid-item-card::
+    .. grid-item-card:: Projects
         :img-top: ../source/_static/logo.png
         :text-align: center
 
-        Projects
-        ^^^
-
-        IOS thing
-
+        A collection of technical projects in states of continuous work and intrigue.
+        
         +++
-
-        .. button-ref:: projects/ingesting-receipts-with-aws-and-ios/index
+        
+        .. button-ref:: projects/index
             :expand:
             :color: secondary
             :click-parent:
 
-            To IOS
+            To Projects
+
+    .. grid-item-card:: Writings
+        :img-top: ../source/_static/logo.png
+        :text-align: center
+
+        A collection of writings. Deep dives on thoughts on building software
+        
+        +++
+        
+        .. button-ref:: writings/index
+            :expand:
+            :color: secondary
+            :click-parent:
+
+            To Writings
