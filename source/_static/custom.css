@@ -1,0 +1,29 @@
+/* Light theme overrides */
+html[data-theme="light"] {
+    /* The main page background */
+    --pst-color-background: #F2EEE2 !important;
+    /* The sidebar and cards background */
+    --pst-color-surface: #F2EEE2 !important;
+    /* THE NAVBAR specifically */
+    --pst-color-navbar-bg: #F2EEE2 !important;
+    /* The header container */
+    --pst-color-header-bg: #F2EEE2 !important;
+}
+
+/* Dark theme overrides */
+html[data-theme="dark"] {
+    --pst-color-background: #000000 !important;
+    --pst-color-surface: #000000 !important;
+    --pst-color-navbar-bg: #000000 !important;
+    --pst-color-header-bg: #000000 !important;
+}
+
+/* Global Secondary Color */
+:root {
+    --pst-color-secondary: #3B756F !important;
+}
+
+/* Nuclear option: if the variables still fail, target the class directly */
+/* .bd-header.navbar {
+    background-color: var(--pst-color-navbar-bg) !important;
+} */

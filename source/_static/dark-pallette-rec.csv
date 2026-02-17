@@ -1,0 +1,6 @@
+Element,Hex Code,Purpose
+Primary Background,#0D0D0D,A slightly deeper version of your black for the main canvas.
+Surface/Cards,#1C171D,A very dark mix of your black and purple for cards and sidebars.
+Primary Accent,#52A39B,"A lightened, more vibrant version of your Teal for links."
+Secondary Accent,#D1704D,"A ""glowing"" version of your Rust for hover states or highlights."
+Base Text,#E5E1D5,A dimmed version of your Off-White for readability.
