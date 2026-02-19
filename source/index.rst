@@ -1,38 +1,59 @@
-I’m a software engineer with six years of experience navigating the complex, high-stakes environments of aerospace, fintech, and defense. Currently, I lead software development for spacecraft at the U.S. Naval Research Laboratory in Washington, D.C.
+==============================
+Craig Knoblauch
+==============================
 
-I am deeply passionate about the craft of engineering, specifically tackling unconventional problems that require balancing high-level architecture with low-level execution. However, I believe an effective engineer is motivated by more than just tech. In my life and career I strive to enhance my consideration of other's perspectives. 
+**Ever since I learned what a software engineer is I've wanted to be one.**
 
-This site is a collection of my technical projects and development processes, but it's also a space where I document experiences and share the pieces of artistic expression that have spoken to me.
+I am deeply passionate about the craft of engineering, specifically tackling unconventional problems that require balancing high-level architecture with low-level execution. However, I believe an effective engineer is motivated by more than just tech. In my life and career, I strive to enhance my consideration of others' perspectives.
 
-.. grid:: 1 1 2 2
+> *This site is a collection of my technical projects and development processes, but it's also a space where I document experiences and share the pieces of artistic expression that have spoken to me.*
+
+-----
+
+.. grid:: 1 1 3 3
     :gutter: 3
 
-    .. grid-item-card:: Projects
-        :img-top: ../source/_static/logo.png
+    .. grid-item-card:: :octicon:`code-square;1em;text-primary` Projects
+        :class-card: shadow-sm
         :text-align: center
 
         A collection of technical projects in states of continuous work and intrigue.
         
         +++
-        
         .. button-ref:: projects/index
+            :color: primary
+            :outline:
             :expand:
-            :color: secondary
             :click-parent:
 
-            To Projects
+            Explore Portfolio
 
-    .. grid-item-card:: Writings
-        :img-top: ../source/_static/logo.png
+    .. grid-item-card:: :octicon:`pencil;1em;text-primary` Writings
+        :class-card: shadow-sm
         :text-align: center
 
-        A collection of writings. Deep dives on thoughts on building software
+        Deep dives on building software and leadership.
         
         +++
-        
         .. button-ref:: writings/index
+            :color: primary
+            :outline:
             :expand:
-            :color: secondary
             :click-parent:
 
-            To Writings
+            Read Posts
+
+    .. grid-item-card:: :octicon:`heart;1em;text-primary` Curations
+        :class-card: shadow-sm
+        :text-align: center
+
+        A curated selection of music, art, and books that I love.
+        
+        +++
+        .. button-ref:: curations/index
+            :color: primary
+            :outline:
+            :expand:
+            :click-parent:
+
+            View Collection

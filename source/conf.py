@@ -39,7 +39,6 @@ html_theme_options = {
     "linkedin_url": "https://www.linkedin.com/in/craig-knoblauch-b88563124",
     "secondary_sidebar_items": [],
     "logo": {
-        "text": "Craig Knoblauch",
         "image_light": "_static/logo.png", 
         "image_dark": "_static/logo.png"
     }
