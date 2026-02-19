@@ -14,12 +14,8 @@ A collection of things that have recently captured my attention, across sound, s
 .. grid:: 1 1 2 2
     :gutter: 3
 
-    .. grid-item-card:: Madness - Muse
-        :class-card: shadow-sm
+    .. grid-item::
 
-        An absolute classic of the synth-pop genre. The energy in the final saxophone solo is unmatched for late-night drives.
-        
-        +++
         .. raw:: html
 
            <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0c4IEciLCDdXEhhKxj4ThA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
